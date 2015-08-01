@@ -1,12 +1,12 @@
-package com.iscool.admin;
+package com.iscool.exam;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-@RequestMapping("/admin/")
-public class AdminController {
+@RequestMapping("/exam/")
+public class ExamController {
     public static void main(String[] args) {
-        System.out.println("Edited from GIT site");
+
     }
 }
